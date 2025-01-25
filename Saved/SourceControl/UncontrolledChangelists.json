@@ -4,7 +4,12 @@
 		{
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
-			"files": []
+			"files": [
+				"C:/Users/apatney/Desktop/eecs440-p1/Content/affordances/AffToggleActors.uasset",
+				"C:/Users/apatney/Desktop/eecs440-p1/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/apatney/Desktop/eecs440-p1/Content/Sounds/721342__jerimee__table-tennis-toggle.uasset",
+				"C:/Users/apatney/Desktop/eecs440-p1/Content/BPLightswitch.uasset"
+			]
 		}
 	]
 }
