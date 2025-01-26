@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/kumaran/OneDrive/Desktop/EECS 440 5.5 5.5/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/kumaran/OneDrive/Desktop/EECS 440 5.5 5.5/Content/VRTemplate/Audio/office-ambience.uasset",
+				"C:/Users/kumaran/OneDrive/Desktop/EECS 440 5.5 5.5/Content/Sounds/AmbientAudio.uasset",
+				"C:/Users/kumaran/OneDrive/Desktop/EECS 440 5.5 5.5/Content/steeeel.uasset",
+				"C:/Users/kumaran/OneDrive/Desktop/EECS 440 5.5 5.5/Content/steeeel_Mat.uasset",
+				"C:/Users/kumaran/OneDrive/Desktop/EECS 440 5.5 5.5/Content/window_material.uasset",
 				"C:/Users/apatney/Desktop/eecs440-p1/Content/affordances/AffToggleActors.uasset",
 				"C:/Users/apatney/Desktop/eecs440-p1/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"C:/Users/apatney/Desktop/eecs440-p1/Content/Sounds/721342__jerimee__table-tennis-toggle.uasset",
