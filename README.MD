@@ -1,8 +1,10 @@
 # JobSim VR
 
-<a href="https://youtu.be/kZQmX16voqs">
-  <img src="https://img.youtube.com/vi/kZQmX16voqs/maxresdefault.jpg" width="400">
-</a>
+<p align="center">
+  <a href="https://youtu.be/kZQmX16voqs">
+    <img src="https://img.youtube.com/vi/kZQmX16voqs/maxresdefault.jpg" width="400">
+  </a>
+</p>
 
 * **Dynamic NPCs:** NPCs with advanced AI that react and interact based on player behavior.
 * **Head-Tracking:** Seamless VR integration with head-tracking support for a more immersive experience.
@@ -30,29 +32,3 @@
 
    ```bash
    git clone https://github.com/yourusername/JobSimVR.git
-   ```
-
-2. Open the project in Unreal Engine 5.
-
-3. Make sure your VR headset is connected and set up.
-
-4. Click "Play" in Unreal Engine to start the game.
-
-5. Navigate through the Macrodata Refinement Room and interact with the environment and NPCs.
-
-## Contributing
-
-Feel free to fork the repository and submit pull requests. If you have any suggestions, bug reports, or feature requests, open an issue in the Issues tab.
-
-## Credits
-
-* *Owlchemy Labs | Job Simulator 2016 **: Original Game IP Inspo.
-* **Inspiration**: The *Severance* series for the core design and thematic influence.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-
-
