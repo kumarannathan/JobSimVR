@@ -1,11 +1,4 @@
 # JobSim VR
-
-<p align="center">
-  <a href="https://youtu.be/kZQmX16voqs">
-    <img src="https://img.youtube.com/vi/kZQmX16voqs/maxresdefault.jpg" width="400">
-  </a>
-</p>
-
 * **Dynamic NPCs:** NPCs with advanced AI that react and interact based on player behavior.
 * **Head-Tracking:** Seamless VR integration with head-tracking support for a more immersive experience.
 * **Interactive Environment:** Fully interactable components in the Macrodata Refinement Room, including desks, monitors, and office tools.
@@ -18,7 +11,6 @@
 * **Blueprints:** Utilized Unreal Engine’s visual scripting language for game logic and interaction.
 * **C++:** Employed for performance-critical aspects of the game and deeper system integration.
 
-## Installation
 
 ### Prerequisites
 
