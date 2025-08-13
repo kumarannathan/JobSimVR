@@ -1,5 +1,8 @@
 # JobSim VR
-[![Watch the video](https://img.youtube.com/vi/kZQmX16voqs/maxresdefault.jpg)](https://youtu.be/kZQmX16voqs)
+
+<a href="https://youtu.be/kZQmX16voqs">
+  <img src="https://img.youtube.com/vi/kZQmX16voqs/maxresdefault.jpg" width="400">
+</a>
 
 * **Dynamic NPCs:** NPCs with advanced AI that react and interact based on player behavior.
 * **Head-Tracking:** Seamless VR integration with head-tracking support for a more immersive experience.
@@ -49,6 +52,7 @@ Feel free to fork the repository and submit pull requests. If you have any sugge
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
 
