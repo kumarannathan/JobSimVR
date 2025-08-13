@@ -1,8 +1,5 @@
 # JobSim VR
-
-**JobSim VR** is an immersive corporate life simulator featuring NPCs with dynamic behaviors, head-tracking, movement, and dialogue. Inspired by the *Severance* series, it includes an interactive Macrodata Refinement Room with a fully realized virtual office environment. This project was featured in the *University of Michigan Game Design Showcase*.
-
-## Features
+[![Watch the video](https://img.youtube.com/vi/kZQmX16voqs/maxresdefault.jpg)](https://youtu.be/kZQmX16voqs)
 
 * **Dynamic NPCs:** NPCs with advanced AI that react and interact based on player behavior.
 * **Head-Tracking:** Seamless VR integration with head-tracking support for a more immersive experience.
@@ -52,5 +49,6 @@ Feel free to fork the repository and submit pull requests. If you have any sugge
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
